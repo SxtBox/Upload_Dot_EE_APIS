@@ -1,2 +1,2 @@
-# Upload_Dot_EE_APIS
+# Upload Dot EE APIS
 Get Media from upload.ee
